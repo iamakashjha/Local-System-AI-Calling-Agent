@@ -1,0 +1,10 @@
+{
+  "customer_id": "test_user",
+  "transcript": "Agent: Good evening! I'm an AI Assistant calling from RupeeQ Finance for overdraft facilicty. May I speak to you for 2 minutes?\nCustomer: No.\nAgent: No Problem! We will connect you after sometime. Thank you for your time! Have a great day. Goodbye!\n",
+  "employment_status": null,
+  "monthly_salary": null,
+  "net_monthly_takehome_salary": null,
+  "current_emi": null,
+  "desired_loan": null,
+  "age": null
+}
